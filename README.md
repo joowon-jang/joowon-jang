@@ -2,6 +2,7 @@
 
 > **장주원** _Front-end Developer_
 >> e-mail: <wndnjs5248@hanmail.net>
+<br> blog: <https://velog.io/@juwon98>
 
 <br>
 
