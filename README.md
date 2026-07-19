@@ -41,5 +41,6 @@ React와 TypeScript를 중심으로 웹 프론트엔드를 공부하고 개발�
 ## 📫 Contact
 
 - Email: <wndnjs5248@hanmail.net>
+- Portfolio: <https://joowon-jang.github.io/portfolio/>
 - Blog: <https://velog.io/@juwon98>
 - Notion: <https://dorian-ghoul-19c.notion.site/15a26b60933f8054b218f9594d623919>
