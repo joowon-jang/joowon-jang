@@ -8,8 +8,6 @@
 [![Velog](https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@juwon98)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wndnjs5248@hanmail.net)
 
-</div>
-
 ## 👋 About Me
 
 사용자 경험과 웹 접근성을 고민하는 프론트엔드 개발자 장주원입니다.<br>
@@ -89,7 +87,7 @@ React와 TypeScript를 중심으로, 사용하기 편하고 오래 유지할 수
 ## 📫 Contact
 
 | Channel | Link |
-| --- | --- |
+| :---: | :---: |
 | Portfolio | [joowon-jang.github.io/portfolio](https://joowon-jang.github.io/portfolio/) |
 | Email | [wndnjs5248@hanmail.net](mailto:wndnjs5248@hanmail.net) |
 | Blog | [velog.io/@juwon98](https://velog.io/@juwon98) |
@@ -97,5 +95,7 @@ React와 TypeScript를 중심으로, 사용하기 편하고 오래 유지할 수
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=joowon-jang&style=flat-square&color=00B8D9)
+
+</div>
 
 </div>
